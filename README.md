@@ -1,2 +1,2 @@
 # hello-world
-My first repository in GitGub
+My first repository in Github
